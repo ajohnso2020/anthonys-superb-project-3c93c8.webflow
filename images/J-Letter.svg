@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="142.581" height="283" viewBox="0 0 142.581 283">
+  <g id="Raggruppa_1" data-name="Raggruppa 1" transform="translate(-798 -485)">
+    <path id="rgba_253_253_253_0.94_" data-name="rgba(253,253,253,0.94)" d="M167.5,184q3.3-1.1,2.5,1.5l-8,4.5-5,8.5-1,11-1,1v170l1,1,1,12,4,10.5-10.5,1-20,7-10,5-20,6q-5.5-1.5-7,1h-21l-12-3-8-4L44,409.5q-9.2-10.3-13-26l4.5-7.5L97,318.5l2-9-3-10,3.5-5.5,6-1,6.5,5.5,2,9-2,8-4,7L90.5,341,78,352.5a49.911,49.911,0,0,0-11,17l-2,9v7q2,13,10.5,19.5l11,5h7q11.3-2.7,17.5-10.5,5.4-6.6,7-17V185h48.5Z" transform="translate(767 344)" fill="rgba(0,0,0,0.94)"/>
+    <g id="Ellisse_1" data-name="Ellisse 1" transform="translate(885 485)" stroke="#000" stroke-width="1">
+      <circle cx="18.5" cy="18.5" r="18.5" stroke="none"/>
+      <circle cx="18.5" cy="18.5" r="18" fill="none"/>
+    </g>
+    <path id="Tracciato_2" data-name="Tracciato 2" d="M885.4,761.126s15.359-7.622,26.98-9.765a47.365,47.365,0,0,1,21.5,1.2,62.047,62.047,0,0,1-9.341-17.65c-2.99-9.625-3.079-21.232-3.079-21.232Z" fill="#0a0202" stroke="#0a0202" stroke-width="1"/>
+    <path id="Tracciato_4" data-name="Tracciato 4" d="M30,0s4.5,10.5,12,18S60,30,60,30,49.5,34.5,42,42,30,60,30,60,25.5,49.5,18,42,0,30,0,30s10.5-4.5,18-12S30,0,30,0Z" transform="translate(809.5 533)" fill="#0a0202"/>
+    <path id="Tracciato_1" data-name="Tracciato 1" d="M911,492.575s22.793.487,35.733,0,17.876-2.783,17.876-2.783l-2.873,4.125A23.484,23.484,0,0,0,952,502.846c-3.808,6.372-4.8,18.2-4.8,18.2l-36.2-27.2Z" transform="translate(-25.502 37)" fill="#0a0202" stroke="#0a0202" stroke-width="1"/>
+  </g>
+</svg>

@@ -455,6 +455,10 @@ blockquote {
   width: 200px;
   height: 350px;
 }
+#colmar-2 {
+ width: 600px;
+ height: 500px;
+}
 .work-image {
   position: absolute;
   z-index: 3;

@@ -232,6 +232,15 @@ blockquote {
   align-items: center;
 }
 
+.hero-image-wrap a {
+  color: blue;
+  font-size: 45px;
+  font-family: 'The-Huntsman', serif;
+  margin-right: 225px;
+  border: 2px solid blue;
+  padding: 20px;
+}
+
 .white-overlay {
   position: absolute;
   right: 0px;
@@ -529,6 +538,9 @@ blockquote {
    border-top: 1px solid #0a0a0a; 
 }
 
+.info-row i {
+  font-size: 15px;
+}
 .info-text {
   line-height: 1;
 }
@@ -613,6 +625,10 @@ blockquote {
   font-family: 'Free Sans', sans-serif;
   color: #0a0a0a;
   font-weight: 400;
+}
+.nav-link:last-child {
+  color: blue;
+  border: 2px solid blue;
 }
 
 .nav-link:hover {
@@ -1033,7 +1049,12 @@ blockquote {
   max-width: 720px;
   margin-bottom: 0px;
   padding: 24px;
-  margin-left: 12px;
+  margin: auto;
+}
+.contact-anthony p {
+  text-align: center;
+  padding-top: 75px;
+  line-height: 2em;
 }
 @media screen and (min-width: 1920px) {
   .h1-utilities {
